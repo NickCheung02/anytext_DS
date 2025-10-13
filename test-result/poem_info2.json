@@ -1,0 +1,124 @@
+{
+  "data_list": [
+    {
+      "img_name": "shanshui_001.jpg",
+      "caption": "It is evening, a great mountain looms, with the sun resting on its waist. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "白日依山尽",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_002.jpg",
+      "caption": "Towering green mountains, a long white waterfall plunging down, a deep emerald pool below, gray-brown boulders scattered around, and a thin veil of mist drifting in the air. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "川流不息",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_003.jpg",
+      "caption": "Withered vines, an old tree, and dusk crows. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "枯藤老树昏鸦",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_004.jpg",
+      "caption": "A lone fisherman in a straw raincoat rows his small boat on a misty river, surrounded by distant peaks fading into fog. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "孤舟蓑笠翁",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_005.jpg",
+      "caption": "Snow blankets silent mountains, pine trees stand tall under heavy white caps, a frozen stream winds through the valley. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "千山鸟飞绝",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_006.jpg",
+      "caption": "Autumn maple trees blaze red along a winding river, a small wooden bridge crosses the water, geese fly south in formation. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "停车坐爱枫林晚",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_007.jpg",
+      "caption": "Moonlight reflects on a still lake, willow branches dip into the water, a pavilion stands quietly on the shore. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "月落乌啼霜满天",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_008.jpg",
+      "caption": "Rolling clouds drift over layered peaks, a winding path leads to a hidden temple, incense smoke curls into the sky. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "云深不知处",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_009.jpg",
+      "caption": "Spring blossoms dot the hillsides, butterflies flutter among peach trees, a gentle stream murmurs through the valley. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "桃花流水窅然去",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_010.jpg",
+      "caption": "Vast desert meets distant mountains under a setting sun, a lone rider on horseback casts a long shadow across the dunes. In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "大漠孤烟直",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    }
+  ]
+}

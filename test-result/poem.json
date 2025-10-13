@@ -1,0 +1,40 @@
+{
+  "data_list": [
+    {
+      "img_name": "shanshui_001.jpg",
+      "caption": "It is evening, a great mountain looms, with the sun resting on its waist.In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "白日依山尽",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_002.jpg",
+      "caption": "Towering green mountains, a long white waterfall plunging down, a deep emerald pool below, gray-brown boulders scattered around, and a thin veil of mist drifting in the air.In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "川流不息",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    },
+    {
+      "img_name": "shanshui_003.jpg",
+      "caption": "Withered vines, an old tree, and dusk crows.In the style of traditional Chinese landscape painting.",
+      "annotations": [
+        {
+          "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+          "text": "枯藤老树昏鸦",
+          "valid": true,
+          "pos": 0
+        }
+      ]
+    }
+  ]
+}
